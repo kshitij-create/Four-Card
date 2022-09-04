@@ -1,0 +1,76 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	background-color: #fafafa;
+}
+
+.subText {
+	align-items: center;
+}
+
+.attribution {
+	font-size: 15px;
+	text-align: center;
+	color: #929196;
+	margin-bottom: 30px;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+.Heading1 {
+	font-weight: 200;
+	color: #929196;
+	margin-top: 50px;
+	margin-bottom: 0;
+}
+
+.Heading2 {
+	font-weight: 600;
+	color: #4d4c55;
+	margin-top: 0;
+}
+
+.Card-item {
+	text-align: left;
+	width: 458px;
+	height: auto;
+	padding: 30px;
+	display: inline-block;
+	box-shadow: -7px 13px 15px -5px rgba(149,185,206, 1);
+	-webkit-box-shadow: -7px 13px 15px -5px rgba(149,185,206, 1);
+	-moz-box-shadow: -7px 13px 15px -5px rgba(149,185,206, 1);
+	border-radius: 5px;
+	border-top: 5px solid #48b7a8;
+	margin: 30px;
+}
+
+.Card-item p {
+	text-align: left;
+	font-size: 17px;
+	width: 300px;
+	line-height: 2;
+}
+
+.Card-item h2 {
+	color: #201f25;
+}
+
+.Icon {
+	display: inline-block;
+	margin-left: 396px;
+  margin-top: 52px;
+}
+
+.Team {
+	border-top: 5px solid #ab3647;
+}
+
+.Karma {
+	border-top: 5px solid #FBDF07;
+}
+
+.Calc {
+	border-top: 5px solid #3c81bb;
+}
